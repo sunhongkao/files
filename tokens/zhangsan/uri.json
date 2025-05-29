@@ -1,0 +1,10 @@
+{
+    "name": "zhangsan",
+    "symbol": "zs",
+    "description": "this is token of zhangsan.",
+    "image": "https://raw.githubusercontent.com/sunhongkao/files/04050032ac0252f9c79ecf57231710618d45b493/tokens/zhangsan/logo.jpg",
+    "extensions": {
+        "website": "https://website.com",
+        "twitter": "https://twitter.com/sunhongkao"
+    }
+}
