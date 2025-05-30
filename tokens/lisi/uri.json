@@ -1,0 +1,10 @@
+{
+    "name": "lisi",
+    "symbol": "LS",
+    "description": "this is token of lisi.",
+    "image": "https://raw.githubusercontent.com/sunhongkao/files/50e1c6249e05409fd1f9643bc39c72c056f22db2/tokens/lisi/logo.jpg",
+    "extensions": {
+        "website": "https://website.com",
+        "twitter": "https://twitter.com/sunhongkao"
+    }
+}
